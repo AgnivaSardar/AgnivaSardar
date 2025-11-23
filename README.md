@@ -10,9 +10,9 @@ Passionate about building scalable web and machine learning applications with a 
 
 ## 🔨 Current Work & Projects
 - **Cure Plus**: Enhancing healthcare accessibility with innovative technology ([GitHub repo](https://github.com/AgnivaSardar/Cure-Plus))
-- **Maths Club VITCC**: Club website and initiative projects
+- **Maths Club VITCC**: Club website and initiative projects ([GitHub repo](https://github.com/mathclub2025/math_club.git))
 - **Auracle Labs**: Cutting-edge projects in development
-- **MoveSphere**: Personal tech venture and upcoming projects
+- **MoveSphere**: Personal tech venture and upcoming projects ([GitHub repo](https://github.com/AgnivaSardar/MoveSphere-Frontend.git))
 
 ## 🛠️ Tech Stack
 - **Languages & Frameworks:** Java, Python, C/C++, Spring Boot, Express.js, React.js, Flask, Node.js
