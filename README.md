@@ -9,7 +9,7 @@
 Passionate about building scalable web and machine learning applications with a focus on clean, efficient, and maintainable code. Experienced with a broad tech stack ranging from frontend to backend and AI/ML technologies.
 
 ## 🔨 Current Work & Projects
-- **Cure Plus**: Enhancing healthcare accessibility with innovative technology ([GitHub repo](https://github.com/AgnivaSardar/Cure-Plus))
+- **VIT Verse**: Video Streaming platform for VIT Chennai ([Backend GitHub repo](https://github.com/AgnivaSardar/VIT-Verse-Backend.git)) ([Frontend GitHub repo](https://github.com/AgnivaSardar/VIT-Verse-Frontend.git))
 - **Maths Club VITCC**: Club website and initiative projects ([GitHub repo](https://github.com/mathclub2025/math_club.git))
 - **Auracle Labs**: Cutting-edge projects in development
 - **MoveSphere**: Personal tech venture and upcoming projects ([GitHub repo](https://github.com/AgnivaSardar/MoveSphere-Frontend.git))
